@@ -1,4 +1,4 @@
-#include "DHT.h"
+ #include "DHT.h"
 
 #define DHTPIN 8     // DHT11이 연결된 핀
 
