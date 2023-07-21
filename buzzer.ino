@@ -1,3 +1,4 @@
+//좋아요 기능
 #define C 262 // 도 
 #define D 294 // 레 
 #define E 330 // 미 
